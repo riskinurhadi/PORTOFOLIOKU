@@ -1,0 +1,51 @@
+
+body{
+    min-height: 2000px;
+    padding-top: 3rem;
+}
+
+#hero{
+    padding-top: 3rem;
+    background-color: #e3edff;
+}
+
+/* # About
+--------------------------------------------------------------*/ 
+.img-fluid{
+
+}
+
+.about h3 {
+  font-weight: 700;
+  font-size: 34px;
+  color: #02c6c6;
+}
+
+.about h4 {
+  font-size: 20px;
+  font-weight: 700;
+  margin-top: 5px;
+  color: #02c6c6;
+}
+
+.about i {
+  font-size: 35px;
+  margin-top: 15px;
+  color: #8b97b3;
+}
+
+.about p {
+  font-size: 15px;
+  color: #000000;
+}
+
+
+#Portofolio{
+    background-color:#e3edff;
+}
+
+.img_deg{
+float: left;
+width: 40%;
+
+}
